@@ -1,0 +1,138 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\CTU\\Application with .NET\\QuizTest\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\CTU\\Application with .NET\\QuizTest\\Repositories\\StaffRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Repositories\\StaffRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\CTU\\Application with .NET\\QuizTest\\Base\\StaffListBase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Base\\StaffListBase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\CTU\\Application with .NET\\QuizTest\\Base\\StaffDetailBase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Base\\StaffDetailBase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\CTU\\Application with .NET\\QuizTest\\Components\\Pages\\EmployeeDetailInfo.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Components\\Pages\\EmployeeDetailInfo.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\CTU\\Application with .NET\\QuizTest\\Components\\Pages\\EmployeeInfo.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Components\\Pages\\EmployeeInfo.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\CTU\\Application with .NET\\QuizTest\\Repositories\\IStaffRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Repositories\\IStaffRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\CTU\\Application with .NET\\QuizTest\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "StaffDetailBase.cs",
+              "DocumentMoniker": "E:\\CTU\\Application with .NET\\QuizTest\\Base\\StaffDetailBase.cs",
+              "RelativeDocumentMoniker": "Base\\StaffDetailBase.cs",
+              "ToolTip": "E:\\CTU\\Application with .NET\\QuizTest\\Base\\StaffDetailBase.cs",
+              "RelativeToolTip": "Base\\StaffDetailBase.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T16:07:06.727Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EmployeeDetailInfo.razor",
+              "DocumentMoniker": "E:\\CTU\\Application with .NET\\QuizTest\\Components\\Pages\\EmployeeDetailInfo.razor",
+              "RelativeDocumentMoniker": "Components\\Pages\\EmployeeDetailInfo.razor",
+              "ToolTip": "E:\\CTU\\Application with .NET\\QuizTest\\Components\\Pages\\EmployeeDetailInfo.razor",
+              "RelativeToolTip": "Components\\Pages\\EmployeeDetailInfo.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-21T16:03:01.764Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EmployeeInfo.razor",
+              "DocumentMoniker": "E:\\CTU\\Application with .NET\\QuizTest\\Components\\Pages\\EmployeeInfo.razor",
+              "RelativeDocumentMoniker": "Components\\Pages\\EmployeeInfo.razor",
+              "ToolTip": "E:\\CTU\\Application with .NET\\QuizTest\\Components\\Pages\\EmployeeInfo.razor",
+              "RelativeToolTip": "Components\\Pages\\EmployeeInfo.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAB5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-21T16:02:26.185Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "StaffListBase.cs",
+              "DocumentMoniker": "E:\\CTU\\Application with .NET\\QuizTest\\Base\\StaffListBase.cs",
+              "RelativeDocumentMoniker": "Base\\StaffListBase.cs",
+              "ToolTip": "E:\\CTU\\Application with .NET\\QuizTest\\Base\\StaffListBase.cs",
+              "RelativeToolTip": "Base\\StaffListBase.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T13:04:28.002Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StaffRepository.cs",
+              "DocumentMoniker": "E:\\CTU\\Application with .NET\\QuizTest\\Repositories\\StaffRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\StaffRepository.cs",
+              "ToolTip": "E:\\CTU\\Application with .NET\\QuizTest\\Repositories\\StaffRepository.cs",
+              "RelativeToolTip": "Repositories\\StaffRepository.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAACcAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T12:49:29.922Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IStaffRepository.cs",
+              "DocumentMoniker": "E:\\CTU\\Application with .NET\\QuizTest\\Repositories\\IStaffRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\IStaffRepository.cs",
+              "ToolTip": "E:\\CTU\\Application with .NET\\QuizTest\\Repositories\\IStaffRepository.cs",
+              "RelativeToolTip": "Repositories\\IStaffRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T12:49:18.586Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\CTU\\Application with .NET\\QuizTest\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "E:\\CTU\\Application with .NET\\QuizTest\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T12:44:36.999Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
